@@ -12,7 +12,7 @@ body {
   background-color: green;
   color: white;
   padding: 20px 0;
-  display: flex;
+  display:flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -106,9 +106,7 @@ details {
   border-radius: 15px;
 }
 
-p {
-  margin: 0;
-}
+
 
 .videocoverage:hover {
   cursor: pointer;
@@ -136,7 +134,7 @@ p {
   border-radius: 15px;
 }
 footer {
-  background-color: blue;
+  background-color:green;
   color: #fff;
   padding: 20px;
   text-align: center;
